@@ -1,5 +1,7 @@
 ---
-description: Make your server special. Use Ch1llDev's powerful bots today!
+description: >-
+  Make your server special, and power your productivity. Use Ch1llDev's powerful
+  services today!
 cover: .gitbook/assets/ch1ll-banner.png
 coverY: 0
 ---
@@ -14,6 +16,14 @@ Start integrating your socials to Discord. The easy way. That's DisPing.
 
 {% content-ref url="http://localhost:5000/s/ec8SuGXvjBgOOUBG7LSA/" %}
 [DisPing](http://localhost:5000/s/ec8SuGXvjBgOOUBG7LSA/)
+{% endcontent-ref %}
+
+#### Bot Tracker
+
+It shouldn't be hard to track your bot's stats. Get started with the best bot tracker on Discord, providing informational metrics since July 2023.
+
+{% content-ref url="http://localhost:5000/s/clz8ymdpsE8NGn11k1HE/" %}
+[Bot Tracker](http://localhost:5000/s/clz8ymdpsE8NGn11k1HE/)
 {% endcontent-ref %}
 
 #### SparkV
